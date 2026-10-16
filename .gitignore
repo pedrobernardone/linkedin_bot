@@ -218,3 +218,21 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados gerados pelo bot
+rascunhos/
+usados.json
+
+# Segredos
+.env
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# Editores / sistema
+.vscode/
+.idea/
+.DS_Store
