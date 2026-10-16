@@ -203,8 +203,8 @@ Distribuído sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
 
 ## 👤 Autor
 
-**Seu Nome**
-💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) · 🐙 [GitHub](https://github.com/SEU-USUARIO)
+**Pedro H Bernardone**
+💼 [LinkedIn](https://www.linkedin.com/in/phrodriguesjs)
 
 ---
 
